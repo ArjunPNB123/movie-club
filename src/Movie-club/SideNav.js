@@ -46,7 +46,7 @@ class SideNav extends Component {
           onClick={() => this.props.handleChangeSideNav("test")}
         >
           {""}
-          Test{""}
+          T20{""}
           </div>
 
           <div
